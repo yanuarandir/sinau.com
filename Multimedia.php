@@ -30,9 +30,9 @@
           Topik
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://localhost/userregistration/Jarkom.php">Jaringan Komputer</a>
-          <a class="dropdown-item" href="http://localhost/userregistration/RPL.php">Rekayasa Perangkat Lunak</a>
-          <a class="dropdown-item" href="http://localhost/userregistration/Multimedia.php">Multimedia</a>
+          <a class="dropdown-item" href="Jarkom.php">Jaringan Komputer</a>
+          <a class="dropdown-item" href="RPL.php">Rekayasa Perangkat Lunak</a>
+          <a class="dropdown-item" href="Multimedia.php">Multimedia</a>
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
