@@ -8,7 +8,7 @@
   <body>
     <div class="center">
       <h1>SIGN UP</h1>
-      <form class="" action="http://localhost/userregistration/registration.php" method="post">
+      <form class="" action="registration.php" method="post">
         <div class="text_field">
           <input type="text" name="nama" required>
           <span></span>
