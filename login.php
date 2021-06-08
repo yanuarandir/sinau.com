@@ -8,7 +8,7 @@
   <body>
     <div class="center">
       <h1>LOGIN</h1>
-      <form class="" action="http://localhost/userregistration/validation.php" method="post">
+      <form class="" action="validation.php" method="post">
         <div class="text_field">
           <input type="email" name="email" required>
           <span></span>
@@ -26,7 +26,7 @@
         <input type="submit" name="" value="Login">
 
         <div class="signup"> Belum punya akun?
-          <a href="http://localhost/userregistration/daftar.php">Sign Up</a>
+          <a href="daftar.php">Sign Up</a>
 
         </div>
 
