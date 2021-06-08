@@ -25,8 +25,8 @@
               <img src="image/logo.png" alt="">
             </a>
             <form class="d-flex">
-              <a href="daftar.html"><button id ="login"style="margin-left: 100vh;"class="btn btn-sm"  type="button">Get Started</button></a>
-              <a href="http://localhost/userregistration/login.php"><button id="login"style="margin-left: 10px; padding: 5px 50px 5px 50px;"class="btn btn-sm " type="button">Login</button></a>
+              <a href="daftar.php"><button id ="login"style="margin-left: 100vh;"class="btn btn-sm"  type="button">Get Started</button></a>
+              <a href="login.php"><button id="login"style="margin-left: 10px; padding: 5px 50px 5px 50px;"class="btn btn-sm " type="button">Login</button></a>
             </form>
           </div>
         </nav>
